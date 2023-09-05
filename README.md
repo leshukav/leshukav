@@ -2,7 +2,8 @@
 Я Александр Лещук, Android-разработчик. 
 
 https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-[Мое резюме ](ttps://docs.google.com/document/d/1GWsI-6Ti2bnnntITVEPEyBlcOiKCbFFNcV0NAkdUTY0/edit)
+
+[Мое резюме ](ttps://docs.google.com/document/d/1GWsI-6Ti2bnnntITVEPEyBlcOiKCbFFNcV0NAkdUTY0/edit): приложение с функциями социальной сети
 
 
 <!--
