@@ -12,6 +12,9 @@
    <a href="viber://chat?number=+79788147485">
              <img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white"/>
    </a>
+      <a href="https://api.whatsapp.com/send?phone=79788147485">
+             <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+   </a>
    
 </p>
 
