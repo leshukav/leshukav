@@ -2,9 +2,9 @@
 Я Александр Лещук, Android-разработчик. 
 
 https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[Мое резюме ](ttps://docs.google.com/document/d/1GWsI-6Ti2bnnntITVEPEyBlcOiKCbFFNcV0NAkdUTY0/edit)
 
 
-https://docs.google.com/document/d/1GWsI-6Ti2bnnntITVEPEyBlcOiKCbFFNcV0NAkdUTY0/edit
 <!--
 **leshukav/leshukav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
