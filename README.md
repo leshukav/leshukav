@@ -51,6 +51,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
 </p>
 
+<!--
 
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
@@ -77,6 +78,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
+-->
 <!--
 **leshukav/leshukav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
