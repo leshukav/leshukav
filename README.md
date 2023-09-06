@@ -31,13 +31,13 @@
 
 ### Сертификаты Нетологии
 
-- [Android-разработчик](https://github.com/leshukav/leshukav/blob/main/certificate.pdf)
+- [Android-разработчик](https://github.com/leshukav/leshukav/blob/main/certificate/certificate.pdf)
 
-- [GIT](https://github.com/leshukav/leshukav/blob/main/certificate%20Git.pdf)
+- [GIT](https://github.com/leshukav/leshukav/blob/main/certificate/certificate%20Git.pdf)
 
-- [Kotlin](https://github.com/leshukav/leshukav/blob/main/certificate%20advanced%20development%20for%20android.pdf)
+- [Kotlin](https://github.com/leshukav/leshukav/blob/main/certificate/certificate%20advanced%20development%20for%20android.pdf)
 
-- [Java](https://github.com/leshukav/leshukav/blob/main/certificate%20java.pdf)
+- [Java](https://github.com/leshukav/leshukav/blob/main/certificate/certificate%20java.pdf)
 
 <p float="left">
   <img height="20" alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
