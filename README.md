@@ -17,7 +17,9 @@
    </a>
    
 </p>
-
+<p align='start'>
+   📫 How to reach me: <a href='mailto:sc-service@b.ru'>sc-service@b.ru</a>
+</p>
 
 [Моё резюме](https://docs.google.com/document/d/1GWsI-6Ti2bnnntITVEPEyBlcOiKCbFFNcV0NAkdUTY0/edit?usp=sharing)
 
