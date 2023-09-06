@@ -19,7 +19,7 @@
 
 [Моё резюме](https://docs.google.com/document/d/1GWsI-6Ti2bnnntITVEPEyBlcOiKCbFFNcV0NAkdUTY0/edit?usp=sharing)
 
-### Навыки (харды)
+### Навыки
 1. Kotlin / Java,  GIT,  Intellij IDEA / Android Studio, Android SDK, SOLID, MVVM Architecturу, Hilt, Coroutines, Retrofit, Firebase
 
 
