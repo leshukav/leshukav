@@ -5,10 +5,6 @@
    <a href="https://t.me/AlexLeschuk">
        <img height="20" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-   <a href="mailto:sc-service@b.ru">
-             <img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-   
    <a href="viber://chat?number=79788147485">
              <img height="20" src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white"/>
    </a>
@@ -25,6 +21,8 @@
 
 ### Навыки (харды)
 1. Kotlin / Java,  GIT,  Intellij IDEA / Android Studio, Android SDK, SOLID, MVVM Architecturу, Hilt, Coroutines, Retrofit, Firebase
+
+   
 
 ### Сертификаты Нетологии
 
