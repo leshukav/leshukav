@@ -22,7 +22,7 @@
 [Моё резюме](https://docs.google.com/document/d/1GWsI-6Ti2bnnntITVEPEyBlcOiKCbFFNcV0NAkdUTY0/edit?usp=sharing)
 
 ### Навыки
-1. Kotlin / Java,  GIT,  Intellij IDEA / Android Studio, Android SDK, SOLID, MVVM Architecturу, Hilt, Coroutines, Retrofit, Firebase
+ Kotlin / Java,  GIT,  Intellij IDEA / Android Studio, Android SDK, SOLID, MVVM Architecturу, Hilt, Coroutines, Retrofit, Firebase, Room, 
 
 
 ### Вот, что я умею
@@ -33,9 +33,9 @@
 
 ### Сертификаты Нетологии
 
-- [Android-разработчик](https://github.com/leshukav/leshukav/blob/main/certificate/certificate.pdf)
+* [Android-разработчик](https://github.com/leshukav/leshukav/blob/main/certificate/certificate.pdf)
 
-- [GIT](https://github.com/leshukav/leshukav/blob/main/certificate/certificate%20Git.pdf)
+* [GIT](https://github.com/leshukav/leshukav/blob/main/certificate/certificate%20Git.pdf)
 
 - [Kotlin](https://github.com/leshukav/leshukav/blob/main/certificate/certificate%20advanced%20development%20for%20android.pdf)
 
@@ -46,7 +46,9 @@
   <img height="20" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img height="20" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img height="20" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-   <img height="20" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img height="20" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img height="20" alt="Gradle" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img height="20" alt="JSon" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 
