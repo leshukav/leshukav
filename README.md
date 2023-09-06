@@ -15,11 +15,11 @@
       <a href="https://api.whatsapp.com/send?phone=79788147485">
              <img height="20" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
    </a>
-   
-</p>
-<p align='start'>
+   <p align='start'>
    📫 How to reach me: <a href='mailto:sc-service@b.ru'>sc-service@b.ru</a>
+
 </p>
+
 
 [Моё резюме](https://docs.google.com/document/d/1GWsI-6Ti2bnnntITVEPEyBlcOiKCbFFNcV0NAkdUTY0/edit?usp=sharing)
 
