@@ -22,7 +22,12 @@
 ### Навыки (харды)
 1. Kotlin / Java,  GIT,  Intellij IDEA / Android Studio, Android SDK, SOLID, MVVM Architecturу, Hilt, Coroutines, Retrofit, Firebase
 
-   
+
+### Вот, что я умею
+[Дипломный проект «NeWork»](https://github.com/leshukav/NeWork): приложение с функциями социальной сети, CRUD операции для постов, событий и работ, регистрация и авторизация, просмотр графических вложений, воспроизведение мультимедиа вложений.
+
+[Задание «Album»](https://github.com/leshukav/Multimedia): приложение, воспроизводящее альбом треков по ссылке
+
 
 ### Сертификаты Нетологии
 
