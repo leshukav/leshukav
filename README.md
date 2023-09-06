@@ -4,7 +4,7 @@
 <p align='start'>
     <p align='start'>
    📫 How to reach me: <a href='mailto:sc-service@b.ru'>sc-service@b.ru</a>
-       
+     <p align='start'>  
    <a href="https://t.me/AlexLeschuk">
        <img height="20" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
