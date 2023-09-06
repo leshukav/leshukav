@@ -2,6 +2,9 @@
 Я Александр Лещук, Android-разработчик. 
 
 <p align='start'>
+    <p align='start'>
+   📫 How to reach me: <a href='mailto:sc-service@b.ru'>sc-service@b.ru</a>
+       
    <a href="https://t.me/AlexLeschuk">
        <img height="20" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
@@ -11,8 +14,7 @@
       <a href="https://api.whatsapp.com/send?phone=79788147485">
              <img height="20" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
    </a>
-   <p align='start'>
-   📫 How to reach me: <a href='mailto:sc-service@b.ru'>sc-service@b.ru</a>
+  
 
 </p>
 
@@ -24,7 +26,7 @@
 
 
 ### Вот, что я умею
-[Дипломный проект «NeWork»](https://github.com/leshukav/NeWork): приложение с функциями социальной сети, CRUD операции для постов, событий и работ, регистрация и авторизация, просмотр графических вложений, воспроизведение мультимедиа вложений.
+[Дипломный проект «NeWork»](https://github.com/leshukav/Diplom): приложение с функциями социальной сети, CRUD операции для постов, событий и работ, регистрация и авторизация, просмотр графических вложений, воспроизведение мультимедиа вложений.
 
 [Задание «Album»](https://github.com/leshukav/Multimedia): приложение, воспроизводящее альбом треков по ссылке
 
