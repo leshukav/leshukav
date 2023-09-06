@@ -30,8 +30,11 @@
 
 [Задание «Album»](https://github.com/leshukav/Multimedia): приложение, воспроизводящее альбом треков по ссылке
 
-[Учебный проект «Прогноз погоды »](https://github.com/leshukav/Weather): приложение использует  API с weatherapi.com для получения информации о погоде, с дальнейшей обработкой данных в формате JSON.
+[Учебный проект «Прогноз погоды»](https://github.com/leshukav/Weather): приложение использует  API с weatherapi.com для получения информации о погоде, с дальнейшей обработкой данных в формате JSON.
 
+[Учебный проект «Доска объявлений»](https://github.com/leshukav/TableAd/tree/master): приложение с созданием базы данных на облаке FireBase, с аутентификацией,  хранением медиа  на FireBase Storage.  CRUD операции для объявлений.
+
+[Создание собственных View](https://github.com/leshukav/Animations/tree/main): работа с анимацией
 
 
 ### Сертификаты Нетологии
