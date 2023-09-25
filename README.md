@@ -36,6 +36,7 @@
 
 [Создание собственных View](https://github.com/leshukav/Animations/tree/main): работа с анимацией
 
+[Фильтр точек на карте](https://github.com/leshukav/Filter_point_in_map/tree/master): работа с картой (MapActivity)
 
 ### Сертификаты Нетологии
 
